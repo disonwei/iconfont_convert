@@ -1,4 +1,4 @@
-import "package:iconfont_convert/src/utils.dart";
+import "package:iconfont_convert_flutter/src/utils.dart";
 import "package:flutter_test/flutter_test.dart";
 
 void main() {

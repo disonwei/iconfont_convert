@@ -1,10 +1,10 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:iconfont_convert/src/iconfont_data.dart';
-import 'package:iconfont_convert/src/pub.dart';
-import 'package:iconfont_convert/src/temp/icon_template.dart';
-import 'package:iconfont_convert/src/utils.dart';
+import 'package:iconfont_convert_flutter/src/iconfont_data.dart';
+import 'package:iconfont_convert_flutter/src/pub.dart';
+import 'package:iconfont_convert_flutter/src/temp/icon_template.dart';
+import 'package:iconfont_convert_flutter/src/utils.dart';
 import 'package:yaml/yaml.dart';
 import 'package:path/path.dart' as path;
 

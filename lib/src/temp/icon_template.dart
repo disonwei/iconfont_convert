@@ -1,5 +1,5 @@
-import 'package:iconfont_convert/src/iconfont_data.dart';
-import 'package:iconfont_convert/src/utils.dart';
+import 'package:iconfont_convert_flutter/src/iconfont_data.dart';
+import 'package:iconfont_convert_flutter/src/utils.dart';
 
 class IconTemplate {
   static String build(String className, IconFontData data) {

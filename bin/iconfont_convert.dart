@@ -1,6 +1,6 @@
 import 'package:args/args.dart';
-import 'package:iconfont_convert/iconfont_convert.dart';
-import 'package:iconfont_convert/src/pub.dart';
+import 'package:iconfont_convert_flutter/iconfont_convert_flutter.dart';
+import 'package:iconfont_convert_flutter/src/pub.dart';
 
 void main(List<String> args) async {
   final ArgParser argParser = ArgParser()

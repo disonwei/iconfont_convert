@@ -1,7 +1,7 @@
 import 'dart:convert';
 
-import 'package:iconfont_convert/src/utils.dart';
-import '../iconfont_convert.dart';
+import 'package:iconfont_convert_flutter/src/utils.dart';
+import '../iconfont_convert_flutter.dart';
 
 class IconFontData {
   String id;

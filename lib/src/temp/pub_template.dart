@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:io';
 
-import 'package:iconfont_convert/src/data.dart';
+import 'package:iconfont_convert_flutter/src/data.dart';
 import 'package:yaml/yaml.dart';
 
 class PubTemplate {
